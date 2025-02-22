@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm DazNehOfficial
 
-<!--
-**DazNehOfficial/DazNehOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **beginner developer** excited to learn and grow in the world of coding. I'm currently exploring web development and working on building my skills as a **Full-Stack Developer**.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
+- Basics of **HTML**, **CSS**, and **JavaScript**
+- Getting started with **Python**
+- Exploring **Git** and **GitHub** for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Goals for 2024
+- Build my first full-stack project
+- Contribute to open-source projects
+- Improve my problem-solving skills through coding challenges
+
+## 📫 Let's Connect
+- [LinkedIn](#) — Always open to connecting with fellow learners and developers!
+
+Thanks for visiting my profile! 🚀
