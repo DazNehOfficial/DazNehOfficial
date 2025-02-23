@@ -13,6 +13,6 @@ I'm a **beginner developer** excited to learn and grow in the world of coding. I
 - Improve my problem-solving skills through coding challenges
 
 ## 📫 Let's Connect
-- [LinkedIn](#) — Always open to connecting with fellow learners and developers!
+- [LinkedIn](https://www.linkedin.com/in/praneeldas/) — Always open to connecting with fellow learners and developers!
 
 Thanks for visiting my profile! 🚀
